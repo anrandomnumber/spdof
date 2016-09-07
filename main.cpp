@@ -5,7 +5,7 @@
 
 #include <iostream>
 #include <string>
-#include <stdlib.h>
+#include <cstdlib>
 #include <bitset>
 #include <sstream>
 
